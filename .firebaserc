@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todolist-thanya": {
+      "hosting": {
+        "todolist": [
+          "todolist-thanya"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todolist-thanya"
+  }
+}
